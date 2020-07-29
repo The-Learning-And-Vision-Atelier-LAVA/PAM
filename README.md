@@ -12,12 +12,12 @@ Reposity for "Parallax Attention for Unsupervised Stereo Correspondence Learning
 
 ### - Features:
 
-* Encode Stereo Correspondence without A Pre-defined Maximum Disparity Range (Left-Right Consistency and Cycle Consistency)
+* **Encode Stereo Correspondence without A Pre-defined Maximum Disparity Range**
 
 <img width="400" src="https://github.com/LongguangWang/PAM/blob/master/Figs/consistency.png"/></div>
 
 
-* Encode Occlusion (Valid Mask)
+* **Encode Occlusion**
 
 <img width="400" src="https://github.com/LongguangWang/PAM/blob/master/Figs/valid_mask_0.png"/></div>
 
