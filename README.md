@@ -8,7 +8,7 @@ Pytorch implementation of "Parallax Attention for Unsupervised Stereo Correspond
 ## Contributions
 
 ## Overview
-<img width="600" src="https://github.com/LongguangWang/PAM/blob/master/Figs/overview.png"/></div>
+<img width="500" src="https://github.com/LongguangWang/PAM/blob/master/Figs/overview.png"/></div>
 
 Figure 1. An illustration of our PAM.
 
@@ -16,12 +16,12 @@ Figure 1. An illustration of our PAM.
 
 ### 1. PAM for Unsupervised Stereo Matching (PASMnet)
 #### Overview
-<img width="600" src="https://github.com/LongguangWang/PAM/blob/master/Figs/PASMnet.png"/></div>
+<img width="1000" src="https://github.com/LongguangWang/PAM/blob/master/Figs/PASMnet.png"/></div>
 
 Figure 1. An overview of our PASMnet.
 
 #### Results
-<img width="600" src="https://github.com/LongguangWang/PAM/blob/master/Figs/Fig_PASMnet.png"/></div>
+<img width="1000" src="https://github.com/LongguangWang/PAM/blob/master/Figs/Fig_PASMnet.png"/></div>
 
 Figure 1. Results achieved on the KITTI 2015 dataset.
 
@@ -33,13 +33,13 @@ Figure 1. Comparison to existing supervised and unsupervised stereo matching met
 
 #### Overview
 
-<img width="600" src="https://github.com/LongguangWang/PAM/blob/master/Figs/PASSRnet.png"/></div>
+<img width="1000" src="https://github.com/LongguangWang/PAM/blob/master/Figs/PASSRnet.png"/></div>
 
 Figure 1. An overview of our PASSRnet.
 
 #### Results
 
-<img width="600" src="https://github.com/LongguangWang/PAM/blob/master/Figs/Fig_PASSRnet.png"/></div>
+<img width="1000" src="https://github.com/LongguangWang/PAM/blob/master/Figs/Fig_PASSRnet.png"/></div>
 
 Figure 1. Visual comparison for 2x SR.
 
