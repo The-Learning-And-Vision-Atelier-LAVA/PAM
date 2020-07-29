@@ -21,7 +21,7 @@ Reposity for "Parallax Attention for Unsupervised Stereo Correspondence Learning
 
 <img width="400" src="https://github.com/LongguangWang/PAM/blob/master/Figs/valid_mask_0.png"/></div>
 
-<img width="500" src="https://github.com/LongguangWang/PAM/blob/master/Figs/valid_mask.png"/></div>
+<img width="450" src="https://github.com/LongguangWang/PAM/blob/master/Figs/valid_mask.png"/></div>
 
 
 ## Applications
