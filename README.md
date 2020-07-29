@@ -6,18 +6,18 @@ Reposity for "Parallax Attention for Unsupervised Stereo Correspondence Learning
 
 ## Overview
 
-- Network Architecture
+### Network Architecture
 
 <img width="550" src="https://github.com/LongguangWang/PAM/blob/master/Figs/overview.png"/></div>
 
-- Features:
+### Features:
 
--- Encode Feature Correlation (Left-Right Consistency and Cycle Consistency)
+* Encode Feature Correlation (Left-Right Consistency and Cycle Consistency)
 
 <img width="550" src="https://github.com/LongguangWang/PAM/blob/master/Figs/consistency.png"/></div>
 
 
-** Encode Occlusion (Valid Mask)
+* Encode Occlusion (Valid Mask)
 
 <img width="550" src="https://github.com/LongguangWang/PAM/blob/master/Figs/valid_mask_0.png"/></div>
 
