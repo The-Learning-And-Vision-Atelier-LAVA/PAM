@@ -38,8 +38,8 @@ Pytorch implementation of "Parallax Attention for Unsupervised Stereo Correspond
 <img width="800" src="https://github.com/LongguangWang/PAM/blob/master/Figs/Tab_PASSRnet.png"/></div>
 
 
-## 3. PAM for Other Applications (Updated regularly)
-Our PAM provides a compact and flexible module to perform feature fusion or information interaction for stereo images without explicit disparity estimation, which can be applied in many other tasks like stereo matching, stereo 3D object detection, stereo image restoration (e.g., denoising, deraining, dehaze, dehazing and super-resolution), and multi-view stereo. 
+## 3. PAM in the Literature (Updated regularly)
+Our PAM provides a compact and flexible module to perform feature fusion or information interaction for stereo images without explicit disparity estimation, which can be applied in many tasks like stereo matching, stereo 3D object detection, stereo image restoration (e.g., denoising, deraining, dehaze, dehazing and super-resolution), and multi-view stereo. 
 
 ### Stereo Image Super-Resolution
 * Wang et al., "Learning Parallax Attention for Stereo Image Super-Resolution", CVPR 2019. [[paper]]() [[code]]()
