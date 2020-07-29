@@ -52,6 +52,7 @@ Our PAM provides a compact and flexible module to perform feature fusion or info
 
 ## Acknowledgement
 
-This code is built on [GwcNet](https://github.com/xy-guo/GwcNet). 
+This code is built on [GwcNet](https://github.com/xy-guo/GwcNet). We thank the authors for sharing their codes.
+
 We would like to thank [Sascha Becher](https://www.flickr.com/photos/stereotron)
  and [Tom Bentz](https://www.flickr.com/photos/tombentz) for the approval of using their cross-eye stereo photographs. We would also like to thank [@akkaze](https://github.com/akkaze) for constructive advice.
