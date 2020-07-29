@@ -1,6 +1,6 @@
 # PASMnet
 
-Codes are coming soon. Stay tuned.
+Code will be released soon. Stay tuned.
 
 ## Requirements
 
