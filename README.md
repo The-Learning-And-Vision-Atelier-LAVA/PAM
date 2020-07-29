@@ -48,9 +48,9 @@ Our PAM provides a compact and flexible module to perform feature fusion or info
 * Xie et al., "Non-Local Nested Residual Attention Network for Stereo Image Super-Resolution", ICASSP 2020. [[paper]](https://ieeexplore.ieee.org/document/9054687) [[code]]()
 
 ### Stereo Image Dehazing
-& Pang et al. "BidNet: Binocular Image Dehazing without Explicit Disparity Estimation", CVPR 2020. [[paper]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Pang_BidNet_Binocular_Image_Dehazing_Without_Explicit_Disparity_Estimation_CVPR_2020_paper.pdf) [[code]]()
+* Pang et al. "BidNet: Binocular Image Dehazing without Explicit Disparity Estimation", CVPR 2020. [[paper]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Pang_BidNet_Binocular_Image_Dehazing_Without_Explicit_Disparity_Estimation_CVPR_2020_paper.pdf) [[code]]()
 
 ## Acknowledgement
 
 We would like to thank <a href="https://www.flickr.com/photos/stereotron/" target="_blank">Sascha Becher</a>
- and <a href="https://www.flickr.com/photos/tombentz" target="_blank">Tom Bentz</a> for the approval of using their cross-eye stereo photographs. We would also like to thank <a href="https://github.com/akkaze" target="_blank">akkaze</a> for constructive advice.
+ and <a href="https://www.flickr.com/photos/tombentz" target="_blank">Tom Bentz</a> for the approval of using their cross-eye stereo photographs. We would also like to thank <a href="https://github.com/akkaze" target="_blank">@akkaze</a> for constructive advice.
