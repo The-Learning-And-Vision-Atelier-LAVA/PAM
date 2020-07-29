@@ -1,5 +1,5 @@
 # Parallax-Attention Mechanism (PAM)
-Pytorch implementation of "Parallax Attention for Unsupervised Stereo Correspondence Learning"
+Reposity for "Parallax Attention for Unsupervised Stereo Correspondence Learning"
 
 [[arXiv]]()
 
