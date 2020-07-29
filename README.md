@@ -10,34 +10,28 @@ Pytorch implementation of "Parallax Attention for Unsupervised Stereo Correspond
 ## Overview
 <img width="500" src="https://github.com/LongguangWang/PAM/blob/master/Figs/overview.png"/></div>
 
-Figure 1. An illustration of our PAM.
-
 ## Applications
 
 ### 1. PAM for Unsupervised Stereo Matching (PASMnet)
-#### Overview
+#### 1.1 Overview
 <img width="1000" src="https://github.com/LongguangWang/PAM/blob/master/Figs/PASMnet.png"/></div>
 
-Figure 1. An overview of our PASMnet.
-
-#### Results
+#### 1.2 Results
 <img width="1000" src="https://github.com/LongguangWang/PAM/blob/master/Figs/Fig_PASMnet.png"/></div>
 
-Figure 1. Results achieved on the KITTI 2015 dataset.
 
 <img width="600" src="https://github.com/LongguangWang/PAM/blob/master/Figs/Tab_PASMnet.png"/></div>
 
-Figure 1. Comparison to existing supervised and unsupervised stereo matching methods on KITTI2015.
 
 ### 2. PAM for Stereo Image Super-Resolution (PASSRnet)
 
-#### Overview
+#### 2.1 Overview
 
 <img width="1000" src="https://github.com/LongguangWang/PAM/blob/master/Figs/PASSRnet.png"/></div>
 
 Figure 1. An overview of our PASSRnet.
 
-#### Results
+#### 2.2 Results
 
 <img width="1000" src="https://github.com/LongguangWang/PAM/blob/master/Figs/Fig_PASSRnet.png"/></div>
 
