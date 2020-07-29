@@ -50,7 +50,20 @@ Our PAM provides a compact and flexible module to perform feature fusion or info
 ### - Stereo Image Dehazing
 * Pang et al. "BidNet: Binocular Image Dehazing without Explicit Disparity Estimation", CVPR 2020. [[paper]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Pang_BidNet_Binocular_Image_Dehazing_Without_Explicit_Disparity_Estimation_CVPR_2020_paper.pdf) [code]
 
+## Citation
+```
+@InProceedings{Wang2019Learning,
+  author    = {Longguang Wang and Yulan Guo and Yingqian Wang and Zhengfa Liang and Zaiping Lin and Jungang Yang and Wei An},
+  title     = {Parallax Attention for Unsupervised Stereo Correspondence Learning},
+  booktitle = {XXX},
+  year      = {2020},
+}
+```
+
 ## Acknowledgement
 
 We would like to thank [Sascha Becher](https://www.flickr.com/photos/stereotron)
  and [Tom Bentz](https://www.flickr.com/photos/tombentz) for the approval of using their cross-eye stereo photographs. We would also like to thank [@akkaze](https://github.com/akkaze) for constructive advice.
+ 
+ ## Contact
+For questions, please send an email to wanglongguang15@nudt.edu.cn
