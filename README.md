@@ -56,15 +56,6 @@ Reposity for "Parallax Attention for Unsupervised Stereo Correspondence Learning
 
 Our PAM provides a compact and flexible module to perform feature fusion or information interaction for stereo images without explicit disparity estimation, which can be extended to many other tasks like **stereo 3D object detection, stereo image restoration (e.g., denoising, deblurring, deraining and dehazing), stereo image style transfer, and multi-view stereo**.
 
-### - Stereo Image Dehazing
-* Pang et al. "BidNet: Binocular Image Dehazing without Explicit Disparity Estimation", CVPR 2020. [[paper]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Pang_BidNet_Binocular_Image_Dehazing_Without_Explicit_Disparity_Estimation_CVPR_2020_paper.pdf) [code]
-
-### - 6D Pose Estimation
-* Nakano, "Stereo Vision Based Single-Shot 6D Object Pose Estimation for Bin-Picking by a Robot Manipulator", arXiv. [[paper]](https://arxiv.org/ftp/arxiv/papers/2005/2005.13759.pdf) [code]
-
-### - Light Field Reconstruction
-* Wu et al. "Spatial-Angular Attention Network for Light Field Reconstruction", arXiv. [[paper]](https://arxiv.org/pdf/2007.02252.pdf) [[code]](https://github.com/GaochangWu/SAAN)
-
 
 ## Citation
 ```
