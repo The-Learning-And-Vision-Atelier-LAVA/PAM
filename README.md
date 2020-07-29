@@ -12,7 +12,7 @@ Reposity for "Parallax Attention for Unsupervised Stereo Correspondence Learning
 
 ### - Features:
 
-* Encode Feature Correlation (Left-Right Consistency and Cycle Consistency)
+* Encode Stereo Correlation (Left-Right Consistency and Cycle Consistency)
 
 <img width="400" src="https://github.com/LongguangWang/PAM/blob/master/Figs/consistency.png"/></div>
 
