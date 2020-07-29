@@ -29,16 +29,13 @@ Pytorch implementation of "Parallax Attention for Unsupervised Stereo Correspond
 
 <img width="800" src="https://github.com/LongguangWang/PAM/blob/master/Figs/PASSRnet.png"/></div>
 
-Figure 1. An overview of our PASSRnet.
 
 #### 2.2 Results
 
 <img width="800" src="https://github.com/LongguangWang/PAM/blob/master/Figs/Fig_PASSRnet.png"/></div>
 
-Figure 1. Visual comparison for 2x SR.
 
 <img width="800" src="https://github.com/LongguangWang/PAM/blob/master/Figs/Tab_PASSRnet.png"/></div>
 
-Figure 1. Comparative PSNR/SSIM values achieved on the Middlebury, KITTI 2012 and KITTI 2015 datasets.
 
 ## 3. Applications in other works ()
