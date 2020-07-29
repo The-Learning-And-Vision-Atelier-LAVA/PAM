@@ -56,3 +56,7 @@ Figure 6. Visual comparison for 4× SR. These results are achieved on “test_im
 ![2x](./Figs/results_2x_lab.png)
 
 Figure 7. Visual comparison for 2× SR. These results are achieved on a stereo image pair acquired in our laboratory.
+
+## Acknowledgement
+
+This code is built on [GwcNet](https://github.com/xy-guo/GwcNet). We thank the authors for sharing their codes.
