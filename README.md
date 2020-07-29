@@ -8,7 +8,7 @@ Pytorch implementation of "Parallax Attention for Unsupervised Stereo Correspond
 ## Contributions
 
 ## Overview
-![overview](./Figs/overview.png =100x100)
+![overview](./Figs/overview.png){:height="50%" width="50%"}
 Figure 1. An illustration of our PAM.
 
 ## Applications
