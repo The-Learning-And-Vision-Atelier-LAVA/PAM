@@ -76,8 +76,7 @@ Our PAM provides a compact and flexible module to perform feature fusion or info
 
 ## Acknowledgement
 
-We would like to thank [Sascha Becher](https://www.flickr.com/photos/stereotron)
- and [Tom Bentz](https://www.flickr.com/photos/tombentz) for the approval of using their cross-eye stereo photographs. We would also like to thank [@akkaze](https://github.com/akkaze) for constructive advice.
+We would also like to thank [@akkaze](https://github.com/akkaze) for constructive advice.
  
  ## Contact
 For questions, please send an email to wanglongguang15@nudt.edu.cn
