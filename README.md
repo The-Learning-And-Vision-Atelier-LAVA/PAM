@@ -15,7 +15,7 @@ Figure 1. An illustration of our PAM.
 
 ### 1. PAM for Unsupervised Stereo Matching (PASMnet)
 #### Overview
-![overview](./Figs/PASMnet.png =100x100)
+![overview](./Figs/PASMnet.png){:height="50%" width="50%"}
 Figure 1. An overview of our PASMnet.
 
 #### Results
