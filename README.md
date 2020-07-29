@@ -8,14 +8,14 @@ Pytorch implementation of "Parallax Attention for Unsupervised Stereo Correspond
 ## Contributions
 
 ## Overview
-<img width="400" src="https://github.com/LongguangWang/PAM/tree/master/Figs/overview.png"/></div>
+![overview](./Figs/overview.png=100x100)
 Figure 1. An illustration of our PAM.
 
 ## Applications
 
 ### 1. PAM for Unsupervised Stereo Matching (PASMnet)
 #### Overview
-![overview](./Figs/PASMnet.png)
+![overview](./Figs/PASMnet.png=100x100)
 Figure 1. An overview of our PASMnet.
 
 #### Results
