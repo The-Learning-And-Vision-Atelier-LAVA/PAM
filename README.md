@@ -42,13 +42,13 @@ Pytorch implementation of "Parallax Attention for Unsupervised Stereo Correspond
 Our PAM provides a compact and flexible module to perform feature fusion or information interaction for stereo images without explicit disparity estimation, which can be applied in many tasks like stereo matching, stereo 3D object detection, stereo image restoration (e.g., denoising, deraining, dehaze, dehazing and super-resolution), and multi-view stereo.
 
 ### - Stereo Image Super-Resolution
-* Wang et al., "Learning Parallax Attention for Stereo Image Super-Resolution", CVPR 2019. [[paper]]() [[code]]()
-* Song et al., "Stereoscopic Image Super-Resolution with Stereo Consistent Feature", AAAI 2020. [[paper]](https://www.aaai.org/ojs/index.php/AAAI/article/view/6880) [[code]]()
-* Ying et al., "A Stereo Attention Module for Stereo Image Super-Resolution", SPL. [[paper]](https://ieeexplore.ieee.org/document/8998204) [[code]]()
-* Xie et al., "Non-Local Nested Residual Attention Network for Stereo Image Super-Resolution", ICASSP 2020. [[paper]](https://ieeexplore.ieee.org/document/9054687) [[code]]()
+* Wang et al., "Learning Parallax Attention for Stereo Image Super-Resolution", CVPR 2019. [[paper]]() [[code]](https://github.com/LongguangWang/PASSRnet)
+* Song et al., "Stereoscopic Image Super-Resolution with Stereo Consistent Feature", AAAI 2020. [[paper]](https://www.aaai.org/ojs/index.php/AAAI/article/view/6880) code
+* Ying et al., "A Stereo Attention Module for Stereo Image Super-Resolution", SPL. [[paper]](https://ieeexplore.ieee.org/document/8998204) [[code]](https://github.com/XinyiYing/SAM)
+* Xie et al., "Non-Local Nested Residual Attention Network for Stereo Image Super-Resolution", ICASSP 2020. [[paper]](https://ieeexplore.ieee.org/document/9054687) code
 
 ### - Stereo Image Dehazing
-* Pang et al. "BidNet: Binocular Image Dehazing without Explicit Disparity Estimation", CVPR 2020. [[paper]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Pang_BidNet_Binocular_Image_Dehazing_Without_Explicit_Disparity_Estimation_CVPR_2020_paper.pdf) [[code]]()
+* Pang et al. "BidNet: Binocular Image Dehazing without Explicit Disparity Estimation", CVPR 2020. [[paper]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Pang_BidNet_Binocular_Image_Dehazing_Without_Explicit_Disparity_Estimation_CVPR_2020_paper.pdf) code
 
 ## Acknowledgement
 
