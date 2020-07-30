@@ -56,19 +56,19 @@ Reposity for "Parallax Attention for Unsupervised Stereo Correspondence Learning
 
 Our PAM provides a compact and flexible module to perform feature fusion or information interaction for stereo images without explicit disparity estimation, which can be extended to **stereo 3D object detection, stereo image restoration (e.g., super-resolution [1,2,3,4], denoising, deblurring, deraining and dehazing [5]), stereo image style transfer, multi-view stereo，and many other tasks [6,7]**.
 
-&nbsp;&ensp;[1] Wang et al. "Learning Parallax Attention for Stereo Image Super-Resolution", CVPR 2019.
+  -[1] Wang et al. "Learning Parallax Attention for Stereo Image Super-Resolution", CVPR 2019.
 
-&nbsp;&nbsp;[2] Ying et al. "A Stereo Attention Module for Stereo Image Super-Resolution", SPL.
+[2] Ying et al. "A Stereo Attention Module for Stereo Image Super-Resolution", SPL.
 
-&nbsp;&nbsp;[3] Song et al. "Stereoscopic Image Super-Resolution with Stereo Consistent Feature", AAAI 2020.
+[3] Song et al. "Stereoscopic Image Super-Resolution with Stereo Consistent Feature", AAAI 2020.
 
-&nbsp;&nbsp;[4] Xie et al. "Non-Local Nested Residual Attention Network for Stereo Image Super-Resolution", ICASSP 2020.
+[4] Xie et al. "Non-Local Nested Residual Attention Network for Stereo Image Super-Resolution", ICASSP 2020.
   
-&nbsp;&nbsp;[5] Pang et al. "BidNet: Binocular Image Dehazing Without Explicit Disparity Estimation", CVPR 2020.
+[5] Pang et al. "BidNet: Binocular Image Dehazing Without Explicit Disparity Estimation", CVPR 2020.
   
-&nbsp;&nbsp;[6] Wu et al. "Spatial-Angular Attention Network for Light Field Reconstruction", arXiv.
+[6] Wu et al. "Spatial-Angular Attention Network for Light Field Reconstruction", arXiv.
 
-&nbsp;&nbsp;[7] Nakano. "Stereo Vision Based Single-Shot 6D Object Pose Estimation for Bin-Picking by a Robot Manipulato", arXiv
+[7] Nakano. "Stereo Vision Based Single-Shot 6D Object Pose Estimation for Bin-Picking by a Robot Manipulato", arXiv
 
 
 ## Citation
