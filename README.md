@@ -6,18 +6,18 @@ Reposity for "Parallax Attention for Unsupervised Stereo Correspondence Learning
 
 ## Overview
 
-- Network Architecture
+**- Network Architecture**
 
 <img width="550" src="https://github.com/LongguangWang/PAM/blob/master/Figs/overview.png"/></div>
 
-- Features:
+**- Features:**
 
-  - Encode Stereo Correspondence without A Pre-defined Maximum Disparity Range
+* Encode Stereo Correspondence without A Pre-defined Maximum Disparity Range
 
 <img width="400" src="https://github.com/LongguangWang/PAM/blob/master/Figs/consistency.png"/></div>
 
 
-  - Encode Occlusion
+* Encode Occlusion
 
 <img width="400" src="https://github.com/LongguangWang/PAM/blob/master/Figs/valid_mask_0.png"/></div>
 
