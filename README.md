@@ -87,7 +87,7 @@ Our PAM provides a compact and flexible module to perform feature fusion or info
 
 ## Acknowledgement
 
-We would also like to thank [@akkaze](https://github.com/akkaze) for constructive advice.
+We would like to thank [@akkaze](https://github.com/akkaze) for constructive advice.
  
  ## Contact
 For questions, please send an email to wanglongguang15@nudt.edu.cn
