@@ -6,11 +6,11 @@ Reposity for "Parallax Attention for Unsupervised Stereo Correspondence Learning
 
 ## Overview
 
-**- Network Architecture**
+### Network Architecture
 
 <img width="550" src="https://github.com/LongguangWang/PAM/blob/master/Figs/overview.png"/></div>
 
-**- Features:**
+### Features
 
 * Unsupervised Stereo Correspondence Learning without A Pre-defined Maximum Disparity Range
 
