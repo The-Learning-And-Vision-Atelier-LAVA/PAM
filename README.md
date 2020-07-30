@@ -6,18 +6,18 @@ Reposity for "Parallax Attention for Unsupervised Stereo Correspondence Learning
 
 ## Overview
 
-### - Network Architecture
+- Network Architecture
 
 <img width="550" src="https://github.com/LongguangWang/PAM/blob/master/Figs/overview.png"/></div>
 
-### - Features:
+- Features:
 
-* **Encode Stereo Correspondence without A Pre-defined Maximum Disparity Range**
+  - Encode Stereo Correspondence without A Pre-defined Maximum Disparity Range
 
 <img width="400" src="https://github.com/LongguangWang/PAM/blob/master/Figs/consistency.png"/></div>
 
 
-* **Encode Occlusion**
+  - Encode Occlusion
 
 <img width="400" src="https://github.com/LongguangWang/PAM/blob/master/Figs/valid_mask_0.png"/></div>
 
@@ -56,7 +56,7 @@ Reposity for "Parallax Attention for Unsupervised Stereo Correspondence Learning
 
 Our PAM provides a compact and flexible module to perform feature fusion or information interaction for stereo images without explicit disparity estimation, which can be extended to **stereo 3D object detection, stereo image restoration (e.g., super-resolution [1,2,3,4], denoising, deblurring, deraining and dehazing [5]), stereo image style transfer, multi-view stereo，and many other tasks [6,7]**.
 
-  -[1] Wang et al. "Learning Parallax Attention for Stereo Image Super-Resolution", CVPR 2019.
+[1] Wang et al. "Learning Parallax Attention for Stereo Image Super-Resolution", CVPR 2019.
 
 [2] Ying et al. "A Stereo Attention Module for Stereo Image Super-Resolution", SPL.
 
