@@ -3,27 +3,29 @@ Reposity for "Parallax Attention for Unsupervised Stereo Correspondence Learning
 
 [[arXiv]]()
 
-* **Unsupervised stereo correspondence learning without a pre-defined maximum disparity range**
-* **Computational and Memory Efficient**
-* **Computational and Memory Efficient**
-
 
 ## Overview
 
-### Network Architecture
+### 1. Network Architecture
 
 <img width="550" src="https://github.com/LongguangWang/PAM/blob/master/Figs/overview.png"/></div>
 
-### Left-Right Consistency & Cycle Consistency
+### 2. Left-Right Consistency & Cycle Consistency
 
 <img width="400" src="https://github.com/LongguangWang/PAM/blob/master/Figs/consistency.png"/></div>
 
 
-### Valid Mask
+### 3. Valid Mask
 
 <img width="400" src="https://github.com/LongguangWang/PAM/blob/master/Figs/valid_mask_0.png"/></div>
 
 <img width="450" src="https://github.com/LongguangWang/PAM/blob/master/Figs/valid_mask.png"/></div>
+
+### 3. Features
+
+* **Unsupervised stereo correspondence learning without a pre-defined maximum disparity range**
+* **Computational and Memory Efficient**
+* **Computational and Memory Efficient**
 
 
 ## Applications
