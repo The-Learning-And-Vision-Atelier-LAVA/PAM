@@ -58,7 +58,7 @@ Reposity for "Parallax Attention for Unsupervised Stereo Correspondence Learning
 
 ## 3. PAM for Other Applications
 
-Our PAM provides a compact and flexible module to perform feature fusion or information interaction for stereo images without explicit disparity estimation, which can be extended to **stereo 3D object detection, stereo image restoration (e.g., super-resolution [1,2,3,4], denoising, deblurring, deraining and dehazing [5]), stereo image style transfer, multi-view stereo，and many other tasks [6,7]**.
+Our PAM provides a compact and flexible module to perform feature fusion or information interaction for stereo images without explicit disparity estimation, which can be extended to **stereo 3D object detection, stereo image restoration (e.g., super-resolution [1,2,3,4], denoising, deblurring, deraining and dehazing [5]), stereo image style transfer, multi-view stereo, and many other tasks [6,7]**.
 
 [1] Wang et al. "Learning Parallax Attention for Stereo Image Super-Resolution", CVPR 2019.
 
