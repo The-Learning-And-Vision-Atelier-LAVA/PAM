@@ -72,7 +72,7 @@ Our PAM provides a compact and flexible module to perform feature fusion or info
   
 [6] Wu et al. "Spatial-Angular Attention Network for Light Field Reconstruction", arXiv.
 
-[7] Nakano. "Stereo Vision Based Single-Shot 6D Object Pose Estimation for Bin-Picking by a Robot Manipulato", arXiv
+[7] Nakano. "Stereo Vision Based Single-Shot 6D Object Pose Estimation for Bin-Picking by a Robot Manipulator", arXiv
 
 
 ## Citation
