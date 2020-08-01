@@ -23,7 +23,7 @@ Reposity for "Parallax Attention for Unsupervised Stereo Correspondence Learning
 
 ### 4. Features
 
-* **Unsupervised stereo correspondence learning without a pre-defined maximum disparity range**
+* **Unsupervised stereo correspondence learning without a pre-defined maximum disparity range needed**
 * **Direct regularization on matching cost to produce more reasonable cost distribution**
 * **Computational and Memory Efficient**
 
