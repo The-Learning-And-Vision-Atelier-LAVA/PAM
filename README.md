@@ -21,12 +21,6 @@ Reposity for "Parallax Attention for Unsupervised Stereo Correspondence Learning
 
 <img width="450" src="https://github.com/LongguangWang/PAM/blob/master/Figs/valid_mask.png"/></div>
 
-### 4. Features
-
-* **Unsupervised stereo correspondence learning without a pre-defined maximum disparity range needed**
-* **Direct regularization on matching cost to produce more reasonable cost distribution**
-* **Aggregation of 3D cues from stereo images without explicit disparity estimation**
-
 
 ## Applications
 
@@ -72,7 +66,7 @@ Our PAM provides a compact and flexible module to perform feature fusion or info
   
 [6] Wu et al. "Spatial-Angular Attention Network for Light Field Reconstruction", arXiv.
 
-[7] Nakano. "Stereo Vision Based Single-Shot 6D Object Pose Estimation for Bin-Picking by a Robot Manipulator", arXiv
+[7] Nakano et al. "Stereo Vision Based Single-Shot 6D Object Pose Estimation for Bin-Picking by a Robot Manipulator", arXiv
 
 
 ## Citation
