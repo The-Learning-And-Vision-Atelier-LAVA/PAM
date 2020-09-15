@@ -71,7 +71,7 @@ Our PAM provides a compact and flexible module to perform feature fusion or info
 
 ## Citation
 ```
-@Article{Wang2019Learning,
+@Article{Wang2020Parallax,
   author    = {Longguang Wang and Yulan Guo and Yingqian Wang and Zhengfa Liang and Zaiping Lin and Jungang Yang and Wei An},
   title     = {Parallax Attention for Unsupervised Stereo Correspondence Learning},
   journal   = {{IEEE} Trans. Pattern Anal. Mach. Intell.},
