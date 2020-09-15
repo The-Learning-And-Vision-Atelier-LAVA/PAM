@@ -1,5 +1,5 @@
 # Parallax-Attention Mechanism (PAM)
-Reposity for "Parallax Attention for Unsupervised Stereo Correspondence Learning"
+Reposity for "Parallax Attention for Unsupervised Stereo Correspondence Learning", IEEE TPAMI 2020
 
 [[arXiv]]()
 
@@ -71,10 +71,10 @@ Our PAM provides a compact and flexible module to perform feature fusion or info
 
 ## Citation
 ```
-@InProceedings{Wang2019Learning,
+@Article{Wang2019Learning,
   author    = {Longguang Wang and Yulan Guo and Yingqian Wang and Zhengfa Liang and Zaiping Lin and Jungang Yang and Wei An},
   title     = {Parallax Attention for Unsupervised Stereo Correspondence Learning},
-  booktitle = {XXX},
+  journal   = {{IEEE} Trans. Pattern Anal. Mach. Intell.},
   year      = {2020},
 }
 ```
