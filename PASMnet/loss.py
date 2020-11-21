@@ -109,7 +109,7 @@ def loss_pam_smoothness(att):
 
 def warp_disp(img, disp):
     '''
-    borrowed from
+    Borrowed from: https://github.com/OniroAI/MonoDepth-PyTorch
     '''
     b, _, h, w = img.size()
 
