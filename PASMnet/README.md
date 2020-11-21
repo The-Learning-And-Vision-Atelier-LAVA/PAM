@@ -29,10 +29,10 @@ Download pre-trained models to `./log`.
 - [Baidu Drive](https://pan.baidu.com/s/1Yllm8992_n8i5YfwufyJ-Q)[code:fe12]
 
 ### 2. Test on SceneFlow
-Run `./test.sh` to evaluate on the test set of the SceneFlow dataset.
+Run `./test.sh` to evaluate on the test set of the SceneFlow dataset. Please update `datapath` in the bash file as your training data path.
 
 ### 3. Test on KITTI 2015
-Run `./submission.sh` to save png predictions on the test set of the KITTI 2015 dataset to the folder `./results`.
+Run `./submission.sh` to save png predictions on the test set of the KITTI 2015 dataset to the folder `./results`. Please update `datapath` in the bash file as your training data path.
 
 ## Results
 <img width="800" src="https://github.com/LongguangWang/PAM/blob/master/Figs/Fig_PASMnet.png"/></div>
