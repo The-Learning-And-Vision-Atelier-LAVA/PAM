@@ -17,10 +17,10 @@ Pytorch implementation of "Parallax Attention for Unsupervised Stereo Correspond
 Download [SceneFlow](https://lmb.informatik.uni-freiburg.de/resources/datasets/SceneFlowDatasets.en.html) and [KITTI 2015](http://www.cvlibs.net/datasets/kitti/eval_scene_flow.php?benchmark=stereo) datasets.
 
 ### 2. Train on SceneFlow
-Run `./train.sh` to train on the SceneFlow dataset. Please update `datapath` in the bash file as your test data path.
+Run `./train.sh` to train on the SceneFlow dataset. Please update `datapath` in the bash file as your training data path.
 
 ### 3. Finetune on KITTI 2015
-Run `./finetune.sh` to finetune on the KITTI 2015 dataset. Please update `datapath` in the bash file as your test data path.
+Run `./finetune.sh` to finetune on the KITTI 2015 dataset. Please update `datapath` in the bash file as your training data path.
 
 ## Test
 ### 1. Download pre-trained models
@@ -29,10 +29,10 @@ Download pre-trained models to `./log`.
 - [Baidu Drive](https://pan.baidu.com/s/1Yllm8992_n8i5YfwufyJ-Q)[code:fe12]
 
 ### 2. Test on SceneFlow
-Run `./test.sh` to evaluate on the test set of the SceneFlow dataset. Please update `datapath` in the bash file as your training data path.
+Run `./test.sh` to evaluate on the test set of the SceneFlow dataset. Please update `datapath` in the bash file as your test data path.
 
 ### 3. Test on KITTI 2015
-Run `./submission.sh` to save png predictions on the test set of the KITTI 2015 dataset to the folder `./results`. Please update `datapath` in the bash file as your training data path.
+Run `./submission.sh` to save png predictions on the test set of the KITTI 2015 dataset to the folder `./results`. Please update `datapath` in the bash file as your test data path.
 
 ## Results
 <img width="800" src="https://github.com/LongguangWang/PAM/blob/master/Figs/Fig_PASMnet.png"/></div>
