@@ -17,10 +17,10 @@ Pytorch implementation of "Parallax Attention for Unsupervised Stereo Correspond
 Download [SceneFlow](https://lmb.informatik.uni-freiburg.de/resources/datasets/SceneFlowDatasets.en.html) and [KITTI 2015](http://www.cvlibs.net/datasets/kitti/eval_scene_flow.php?benchmark=stereo) datasets.
 
 ### 2. Train on SceneFlow
-Run `./train.sh` to train on the SceneFlow dataset. Please update `datapath` in the bash file as your training data path.
+Run `./train.sh` to train on the SceneFlow dataset. Please update `datapath` in the bash file as your test data path.
 
 ### 3. Finetune on KITTI 2015
-Run `./finetune.sh` to finetune on the KITTI 2015 dataset. Please update `datapath` in the bash file as your training data path.
+Run `./finetune.sh` to finetune on the KITTI 2015 dataset. Please update `datapath` in the bash file as your test data path.
 
 ## Test
 ### 1. Download pre-trained models
