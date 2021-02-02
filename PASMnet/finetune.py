@@ -53,7 +53,10 @@ def train(train_loader, cfg):
             ckpt = torch.load('log/PASMnet_' + str(cfg.max_disp) + '_SceneFlow_epoch10.pth.tar')
 
         if isinstance(net, nn.DataParallel):
-            net.module.load_state_dict(ckpt['state_dict'])
+            if 'state_dict' in ckpt:
+                net.module.load_state_dict(ckpt['state_dict'])
+            else:                  
+                net.module.load_state_dict(ckpt)
         else:
             net.load_state_dict(ckpt['state_dict'])
 
