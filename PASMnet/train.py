@@ -63,7 +63,7 @@ def train(train_loader, cfg):
 
     for epoch in range(epoch_start, cfg.n_epochs):
         # lr stepwise
-        lr = cfg.lr * (cfg.gamma ** -(epoch // cfg.n_steps))
+        lr = cfg.lr * (cfg.gamma ** (epoch // cfg.n_steps))
         for param_group in optimizer.param_groups:
             param_group['lr'] = lr
 
