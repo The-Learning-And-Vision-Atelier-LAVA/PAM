@@ -3,6 +3,9 @@ Reposity for "Parallax Attention for Unsupervised Stereo Correspondence Learning
 
 [[arXiv]](http://arxiv.org/abs/2009.08250)
 
+### Updates
+- Fix a mistake in Eq. 8. Please see the latest arXiv version.
+
 
 ## Overview
 
